@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+/*HEADER*/
+.page-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
