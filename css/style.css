@@ -116,7 +116,8 @@
     align-items: center;
 }
 
-.blue3{ background-color: blue;
+.blue3{
+    background-color: blue;
     width: 220px;
     height: 150px;
 
