@@ -163,19 +163,19 @@
     display: flex;
     background-color: whitesmoke;
 }
-.aquamarine1{
+.aquamarine1.mini-container{
     background-color: aquamarine;
     width: 55px;
 }
-.aquamarine2{
+.aquamarine2.mini-container{
     background-color: aquamarine;
     width: 55px;
 }
-.aquamarine3{
+.aquamarine3.mini-container{
     background-color: aquamarine;
     width: 55px;
 }
-.aquamarine4{
+.aquamarine4.mini-container{
     background-color: aquamarine;
     width: 55px;
 }
