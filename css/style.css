@@ -176,3 +176,7 @@
     background-color: aquamarine;
     width: 55px;
 }
+.mini-container{
+    display: flex;
+    background-color: whitesmoke;
+}
