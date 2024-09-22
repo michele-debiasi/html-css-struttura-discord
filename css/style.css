@@ -1,7 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
 /*HEADER*/
 .page-header{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     background-color: aqua;
 }
 
