@@ -146,3 +146,19 @@
     width: 370px;
 
 }
+/*section6*/
+.container6{
+    display: flex;
+    background-color: black;
+    height: 200px;
+}
+
+.salmon{
+    background-color: salmon;
+    width: 110px
+}
+
+.aquamarine{
+    background-color: aquamarine;
+    width: 55px;
+}
