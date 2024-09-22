@@ -46,5 +46,17 @@
 
 /*container-1*/
 .container-1{
-    
+    flex-wrap: wrap;
+    display: flex;
+    background-color: indigo;
+    height: 150px;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.purple{background-color: violet;
+    height: 120px;
+    width: 300px;
+
 }
