@@ -9,15 +9,20 @@
     
     display: flex;
     align-content: center;
-    align-items: baseline;
     justify-content: space-around;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    background-color: lightblue;
+    
+
 
 }
 
 
 .logo-section{
     background-color: orange;
+    margin: 2px dashed black
+    
+
 }
 .link-section{
     background-color: orange;
