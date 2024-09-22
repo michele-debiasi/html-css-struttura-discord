@@ -9,7 +9,7 @@
     
     display: flex;
     align-content: center;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     background-color: lightblue;
     
@@ -20,15 +20,18 @@
 
 .logo-section{
     background-color: orange;
-    margin: 2px dashed black
-    
+    margin: 2px dashed black;
+    padding: 2px 2px;
+
 
 }
 .link-section{
     background-color: orange;
+    padding: 2px 2px;
 
 }
 .login-section{
     background-color: orange;
+    padding: 2px 2px;
 
 }
