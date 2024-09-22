@@ -159,23 +159,6 @@
 }
 
 
-.mini-container{
-    display: flex;
-    background-color: whitesmoke;
-}
-.aquamarine1.mini-container{
-    background-color: aquamarine;
-    width: 55px;
-}
-.aquamarine2.mini-container{
-    background-color: aquamarine;
-    width: 55px;
-}
-.aquamarine3.mini-container{
-    background-color: aquamarine;
-    width: 55px;
-}
-.aquamarine4.mini-container{
-    background-color: aquamarine;
-    width: 55px;
-}
+
+
+
