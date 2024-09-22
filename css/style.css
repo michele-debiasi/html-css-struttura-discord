@@ -81,3 +81,26 @@
     height: 150px;
     width: 150px;
 }
+
+/*section3*/
+.container-3{ display: flex;
+    background-color: lightgray;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+
+.pink2{
+    background-color: pink;
+    height: 150px;
+    width: 150px;
+
+}
+.blue2{
+    background-color: blue;
+    width: 220px;
+    height: 150px;
+}
