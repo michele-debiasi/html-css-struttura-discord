@@ -155,6 +155,33 @@
 
 .salmon{
     background-color: salmon;
-    width: 110px
+    width: 110px;
+    margin: 1px;
+   
 }
 
+
+.aquamarine1{
+    background-color: aquamarine;
+    width: 55px;
+    margin: 1px;
+}
+
+.aquamarine2{
+    background-color: aquamarine;
+    width: 55px;
+    margin: 1px;
+
+}
+
+.aquamarine3{
+    background-color: aquamarine;
+    width: 55px;
+    margin: 1px;
+}
+
+.aquamarine4{background-color: aquamarine;
+    width: 55px;
+    margin: 1px;
+
+}
