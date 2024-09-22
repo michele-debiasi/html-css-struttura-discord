@@ -62,3 +62,22 @@
 }
 
 /*container-2*/
+.container-2{
+    display: flex;
+    background-color: white;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.blue1{
+    background-color: blue;
+    width: 220px;
+    height: 150px;
+}
+.pink1{
+    background-color: pink;
+    height: 150px;
+    width: 150px;
+}
