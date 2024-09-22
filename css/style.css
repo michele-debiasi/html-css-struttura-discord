@@ -6,9 +6,13 @@
 
 /*HEADER*/
 .page-header{
+    
     display: flex;
-    justify-content: center;
-    background-color: aqua;
+    align-content: center;
+    align-items: baseline;
+    justify-content: space-around;
+    flex-wrap: wrap
+
 }
 
 
