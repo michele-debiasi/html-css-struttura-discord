@@ -131,8 +131,18 @@
 
 /*section5*/
 .container-5{
+     background-color: lightgray;
+    display: flex;
+    height: 350px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 
 }
 .green{
-    
+    background-color: green;
+    height: 330px;
+    width: 370px;
+
 }
