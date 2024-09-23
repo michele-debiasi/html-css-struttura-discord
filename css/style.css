@@ -12,6 +12,7 @@
     justify-content: center;
     flex-wrap: wrap;
     background-color: lightblue;
+    padding: 15px 0;
     
 
 
@@ -20,7 +21,7 @@
 
 .logo-section{
     background-color: orange;
-    margin: 2px dashed black;
+    border: 2px dashed black;
     padding: 2px 2px;
     min-width: 100px;
     text-align: start;
@@ -30,23 +31,23 @@
 }
 .link-section{
     background-color: orange;
-    margin: 2px dashed black;
+    border: 2px dashed black;
     padding: 2px 2px;
     min-width: 100px;
-    
+    text-align: center;
 
 }
 .login-section{
     background-color: orange;
-    margin: 2px dashed black;
+    border: 2px dashed black;
     padding: 2px 2px;
     min-width: 100px;
-    text-align: end;
+    text-align: right
 
 }
 
 
-/*container-1*/
+
 .container-1{
     flex-wrap: wrap;
     display: flex;
@@ -54,12 +55,19 @@
     height: 150px;
     align-content: center;
     justify-content: center;
+    border: 2px dashed black;
+    padding: 45px 0;
+    
 }
 
 
-.purple{background-color: violet;
-    height: 120px;
-    width: 300px;
+.purple{
+    background-color: violet;
+    min-height: 400px;
+    width: 800px;
+
+    border: 2px dashed black;
+
 
 }
 
