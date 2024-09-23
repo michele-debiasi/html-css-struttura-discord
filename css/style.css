@@ -68,3 +68,38 @@ min-height: 400px
 
 
 }
+
+/* # MAIN */
+
+/* *COL SECTIONS */
+
+.main-section {
+    padding: 45px 0;   
+}
+
+.main-section.single-col > .container {
+    min-height: 800px;
+    background-color: darkgreen;
+    border: 2px dashed black;
+}
+
+.main-section:nth-child(even)>.container {
+    flex-direction: row-reverse;
+}
+
+.main-section .large-col {
+    flex-basis: 60%;
+
+    background-color: #1e8ff7;
+    min-height: 400px;
+    border: 2px dashed black;
+}
+
+.main-section .small-col {
+    flex-basis: 60%;
+
+    background-color: #f9bfcb;
+    min-height: 400px;
+    border: 2px dashed black;
+
+}
