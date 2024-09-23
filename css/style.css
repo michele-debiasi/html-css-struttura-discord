@@ -76,6 +76,12 @@ min-height: 400px
 .main-section {
     padding: 45px 0;   
 }
+
+.main-section:nth-child(even){
+    background-color: #d2d2d2;
+}
+
+
 .main-section> .container {
     display: flex;
 }
