@@ -125,6 +125,7 @@ footer {
 /* *upper footer */
 .upper-footer > .container {
     display: flex;
+    flex-direction: row;
 }
 
 .upper-footer .small-col {
