@@ -96,7 +96,7 @@ min-height: 400px
 }
 
 .main-section .small-col {
-    flex-basis: 60%;
+    flex-basis: 40%;
 
     background-color: #f9bfcb;
     min-height: 400px;
