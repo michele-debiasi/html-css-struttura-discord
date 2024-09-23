@@ -76,6 +76,9 @@ min-height: 400px
 .main-section {
     padding: 45px 0;   
 }
+.main-section> .container {
+    display: flex;
+}
 
 .main-section.single-col > .container {
     min-height: 800px;
