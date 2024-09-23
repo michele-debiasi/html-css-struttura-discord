@@ -120,12 +120,13 @@ footer {
     padding-bottom: 20px;
     border-bottom: 1px solid white;
     margin-bottom: 20px;
+    flex-direction: row;
 }
 
 /* *upper footer */
 .upper-footer > .container {
     display: flex;
-    flex-direction: row;
+    
 }
 
 .upper-footer .small-col {
