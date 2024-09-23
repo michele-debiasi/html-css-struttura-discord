@@ -4,3 +4,67 @@
     padding: 0%;
 }
 
+/* # UTILS */
+.container{
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 1000px;
+    max-width: 100%;
+}
+
+/* HEADER */
+
+
+.upper-header{
+background-color: #acd6e4;
+padding: 15px 0;
+
+}
+
+.upper-header > .container {
+    display: flex;
+
+
+
+}
+
+.upper-header .header-item {
+background-color: #d3a220;
+border: 2px dashed black;
+flex-basis: 20%;
+padding: 5px 10px;
+
+}
+
+.upper-header .nav-container {
+flex-grow: 1;
+text-align: center;
+
+}
+
+.upper-header .login-container {
+    text-align: right;
+
+
+}
+
+/* * HERO SECTION */
+
+.hero {
+    padding: 45px 0;
+
+    background-color: #010088;
+    border: 2px dashed black;
+}
+
+.hero > .container {
+
+
+width: 800px;
+
+border: 2px dashed black;
+background-color: #ec81eb;
+min-height: 400px
+
+
+}
