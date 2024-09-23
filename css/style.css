@@ -121,6 +121,7 @@ footer {
     border-bottom: 1px solid white;
     margin-bottom: 20px;
     flex-direction: row;
+    display: flex;
 }
 
 /* *upper footer */
